@@ -1,12 +1,19 @@
 # Sharon Russell
 
- I have been working as a Senior Software Engineer for 4 years now and I have 8 years experience in software engineering. I have a keen interest in SOLID principles and best practices and strive to include these in the work I produce. One of my strongest skills is the ability to analyse requirements to a fine detail and translate these requirements into clean, maintainable code. I am also pragmatic and friendly and this shows in my working relationships
+I am a Senior Consultant with over 10 years experience and I am interested in remote work. I have a predominately Microsoft, C# and .NET background and I am willing to learn new technologies. I have a proven track record of doing so, having passed the Google Cloud Solution Architect exam within a month, having never used GCP before. 
+I have strong experience of using Cloud Technologies as my current and previous roles utilised Azure and AWS respectively. I have some experience in JavaScript/Node.js, however it has been a while since I have had to use it in my daily work.
 
 ## Key Skills
 
-C#, Javascript, NodeJs, React (limited), .NET 4.7.2, .Net Core 3.1, Design Patterns, Test Driven Development, Behaviour Driven Development, Domain Driven Design, Agile Development, AWS, Docker, Microservices, Service Oriented Architecture, MongoDb, Entity Framework, Github, Jira
+C#, .NET, Distributed Services, Design Patterns, Test Driven Development, Behaviour Driven Development, Domain Driven Design, Agile Development, AWS, Azure, Docker, Microservices, Service Oriented Architecture, MongoDb, CosmosDb, Entity Framework, Github, Jira, Javascript, NodeJs, React (limited)
 
 ## Work Experience
+
+### Ensono Digital - Remote
+
+#### Consultant/Senior Consultant (.NET) September 2021 - Present
+
+Worked with many different clients across the UK from the housing sector, to retail and education. Focussed on delivering value to clients within the proposed engagement period and to a high quality. Using Azure DevOps, Cloud technology, Azure Functions and Azure Service Bus, .Net Core, C# and terraform. Working in a cross functional team within agile principles and in close collaboration with QA and devops engineers. Often presenting to clients during sprint ceremonies.
 
 ### Compare the Market (BGL Group) - Peterborough
 
@@ -34,6 +41,13 @@ Software development using C#, MVC, WCF, NHibernate, SQL Server, NUnit, and Moq.
 - 2010 – BSc in Computing with Computer Games Development, Letterkenny IT.
 - 2006 – Leaving Certificate (Republic of Ireland) in English, Irish, Maths, French, Chemistry, Biology and Art.
 
+## Qualifications
+
+-	2019 - Mental Health First Aider (MHFA England)
+-	2021 - Google Cloud Solution Architect (Expired 2023)
+-	2022 - AZ-900 Azure Fundamentals
+
+
 ## Interests
 
-I like to crochet and enjoy adult colouring books and art. I also rock climb when I can and actively play video games. I did kickboxing for a couple of years as an adult and I am a qualified mental health first aider in the UK
+I like to crochet and enjoy adult colouring books and art. I am a prolific reader and plan on getting through 52 books this year. I also play video games when my other hobbies allow. I am a qualified mental health first aider in the UK.
